@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.para-class {
+    background-color: #FF7F7F;
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+
+.para-three {
+    font-size: 24px;
+}
+
+#para-two {
+    color: #0000FF;
+    font-size: 36px;
+}
+
+#para-four {
+    background-color: #7FFF7F;
+    font-size: 24px;
+    font-weight: bold;
+}
