@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+.btn-click {
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+}
+
+.btn-no-click {
+    background-color: yellow;
+}
+
+.btn-click,
+.btn-no-click {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
